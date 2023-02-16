@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @onurdemircioglu (Onur Demircioğlu)
 - 👀 I’m interested in
-  * Spreadsheets (MS Excel, MS Access, Google Sheets)
+  * MS Office (MS Excel, MS Access)
+  * Spreadsheets (MS Excel, Google Sheets)
+  * Google Apps Script
   * VBA (MS Excel, MS Access)
   * SQL (Oracle, Microsoft SQL)
   * PL/SQL (Oracle)
