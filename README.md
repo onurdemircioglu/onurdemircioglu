@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-My blog: https://medium.com/@onurdemircioglu80
+My blog: https://computerdiaries.substack.com/
 <!---
 onurdemircioglu/onurdemircioglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
